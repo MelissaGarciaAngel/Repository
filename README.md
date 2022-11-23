@@ -1,5 +1,3 @@
-
-
 # Hello world I'm Melissa 🎉
 
 [![Linkedin Badge](https://img.shields.io/badge/-Melissa_García_Ángel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MelissaGarciaAngel)](https://www.linkedin.com/in/MelissaGarciaAngel/)  [![Github Badge](https://img.shields.io/badge/-Melissa_García_Ángel-orange?style=flat&logo=github&logoColor=white&link=https://github.com/MelissaGarciaAngel)](https://github.com/melissagarciaangel)
@@ -11,6 +9,8 @@ A little about me 🎊
 
 - Professional Developer 🎓 from Digital House - 2022
 - Currently studying a Backend Specialization at Digital House
+- 🔭 I’m currently working on improve my skills in JAVA 💪🏽
+- 🌱 I’m currently learning how to implement microservices architecture using JAVA and Springboot, also a little of MySQL 🧘🏽‍♀️
 - I am passionate about music 🎶, I love metal and singing 🤘🏽🤘🏽🤘🏽
 	- Checkout: Jinjer, Cellar Darling, Blackbriar, Spiritbox, Xandria, Adivarius, Miasthenia, Diablo Swing Orchestra. All 👌🏽 female 👌🏽 singers 👌🏽 [More on this here](https://obscurifymusic.com/profile?id=31o7vvvw7lz3s3dtnjho5a6lk37e&code=7052ed77bc8157dc) 👈🏽
 - I consider that life is better if it is exquisite designed ❤🎨
